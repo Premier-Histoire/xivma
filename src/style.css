@@ -1,0 +1,4 @@
+:root {
+  --headercolor: #212529; /* 初期値として設定したい色 */
+  --gradient-end-color: #9c9c9c; /* グラデーションの終わりの色 */
+}
